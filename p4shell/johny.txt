@@ -1,0 +1,5 @@
+ls -lt
+ls ../
+svn
+ls -lt ../ > mike.txt
+johny.txt >+ mike.txt

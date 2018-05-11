@@ -1,0 +1,15 @@
+An error has occurred
+An error has occurred
+total 32
+drwxr-xr-x+ 1 X1 Carbon None 0 Nov 15 12:58 p4shell
+drwxr-xr-x+ 1 X1 Carbon None 0 Nov 11 22:27 hw4
+drwxr-xr-x+ 1 X1 Carbon None 0 Nov 10 16:35 hw5
+drwxr-xr-x+ 1 X1 Carbon None 0 Nov  9 20:10 p3cache
+drwxr-xr-x+ 1 X1 Carbon None 0 Nov  9 14:36 hw3
+drwxr-xr-x+ 1 X1 Carbon None 0 Nov  9 14:36 hw2
+drwxr-xr-x+ 1 X1 Carbon None 0 Oct 31 23:02 p2bomb
+drwxr-xr-x+ 1 X1 Carbon None 0 Oct 26 16:50 lab3
+drwxr-xr-x+ 1 X1 Carbon None 0 Oct 15 23:35 hw1
+drwxr-xr-x+ 1 X1 Carbon None 0 Oct 13 00:53 p1bitmanip
+drwxr-xr-x+ 1 X1 Carbon None 0 Oct 11 15:50 lab2
+drwxr-xr-x+ 1 X1 Carbon None 0 Sep 28 09:10 lab1
